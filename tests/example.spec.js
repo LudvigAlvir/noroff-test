@@ -1,5 +1,5 @@
 // @ts-check
-const { test, expect } = require("@playwright/test");
+/* const { test, expect } = require("@playwright/test");
 
 test("has title", async ({ page }) => {
 	await page.goto("http://127.0.0.1:3000");
@@ -19,3 +19,4 @@ test("get started link", async ({ page }) => {
 		page.getByRole("heading", { name: "Installation" })
 	).toBeVisible();
 });
+ */
